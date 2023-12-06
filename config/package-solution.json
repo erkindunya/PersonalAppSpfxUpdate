@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "react-my-personal-apps-client-side-solution",
+    "id": "549412dc-f843-4380-9cff-6356ff56ac35",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.18.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "react-my-personal-apps description"
+      },
+      "longDescription": {
+        "default": "react-my-personal-apps description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "react-my-personal-apps Feature",
+        "description": "The feature that activates elements of the react-my-personal-apps solution.",
+        "id": "ef76bcb7-f738-4cbd-9706-f40920687c4a",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/react-my-personal-apps.sppkg"
+  }
+}
